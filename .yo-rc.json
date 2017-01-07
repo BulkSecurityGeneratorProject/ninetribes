@@ -1,0 +1,48 @@
+{
+  "generator-jhipster": {
+    "jhipsterVersion": "3.12.2",
+    "baseName": "store",
+    "packageName": "com.ninetribes",
+    "packageFolder": "com/ninetribes",
+    "serverPort": "8080",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "enableSocialSignIn": true,
+    "rememberMeKey": "7e4531aa0ff92276cd59ddaf2dc97a91b31b07d3",
+    "useSass": false,
+    "applicationType": "monolith",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "zh-cn",
+      "zh-tw",
+      "da",
+      "nl",
+      "fr",
+      "de",
+      "hi",
+      "it",
+      "ja",
+      "ko",
+      "pl",
+      "pt-pt",
+      "ru",
+      "sr",
+      "es",
+      "sv"
+    ]
+  }
+}
